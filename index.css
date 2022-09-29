@@ -1,7 +1,7 @@
  p
 {
     align: center;
-    color: #0d7feb;
+    color: #091825;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
@@ -11,7 +11,11 @@ p > strong
 {
     color: red;
 }
-p >strong:hover{
+body{
+    background-image: linear-gradient(rgb(16, 151, 192),rgb(96, 149, 248),rgb(144, 144, 236));
+ 
+}
+p > strong:hover{
     background-color: gold;
 }
 #s2{
