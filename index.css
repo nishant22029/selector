@@ -1,0 +1,30 @@
+ p
+{
+    align: center;
+    color: #0d7feb;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+p > strong
+{
+    color: red;
+}
+p >strong:hover{
+    background-color: gold;
+}
+#s2{
+    color: green;
+}
+.tb{
+    align-items: center;
+    border: 2px solid gray;
+}
+tr:hover{
+    background-color: gray;
+    font-size: 20px;
+}
+tr>.tr1:hover{
+    background-color: red;
+}
