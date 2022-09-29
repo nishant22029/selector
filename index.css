@@ -1,4 +1,4 @@
- p
+ pgit
 {
     align: center;
     color: #091825;
@@ -12,8 +12,8 @@ p > strong
     color: red;
 }
 body{
-    background-image: linear-gradient(rgb(16, 151, 192),rgb(96, 149, 248),rgb(144, 144, 236));
- 
+    background-image: url(download.jfif);
+  background-size: cover;
 }
 p > strong:hover{
     background-color: gold;
